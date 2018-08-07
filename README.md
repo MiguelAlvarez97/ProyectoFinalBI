@@ -27,7 +27,7 @@ Después se procedió a analizar los datos:
 -La mayor cantidad de tweets se realizaban durante el partido en los respectivos países. 
 -La fecha con la mayor cantidad de tweets realizados fue el domingo 15 de julio, es decir la final del mundial de rusia 2018. 
 -Aún con la gran cantidad de tweets recolectados una vez filtrados solo los tweets del mundial eran pocos en comparación con el total.
-• Conclusiones y trabajo futuro 
+- Conclusiones y trabajo futuro 
 -NaiveBayes, no nos brindo un buen resultado (quizá por la cantidad de los datos utilizados en el entrenamiento), por lo que recomendamos utilizar otra técnica de clasificación, como red neuronal o arboles de decisión. El análisis de sentimientos es muy útil si una empresa quiere indagar el grado de aceptación que tiene entre sus clientes, incluso plantear estrategias para identificar y conseguir fieles usuarios. Cómo trabajo futuro seria una mejor implementación para clasificar los sentimientos, analizar que países son los más sentimentales en cuanto al fútbol y planear estrategias de marketing y publicidad en los mismos. • Apéndice: instrucciones de instalación y funcionamiento 
 herramientas: 
 Instalar python y couchdb para windows 10 recolectar los tweets utilizando las librerias tweepy de python.
