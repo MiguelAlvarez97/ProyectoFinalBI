@@ -11,7 +11,8 @@ Objetivo General Implementar e investigar el funcionamiento de un clasificador d
 -Pycharm
 -Phyton
 -Ubuntu
--16.04 • Método: 
+-16.04 
+- Método: 
 Para el desarrollo de este proyecto se utilizó la api de twitter para recolectar los twitters y guardarlos en una base de datos noSql
 (CouchDB), para el análisis de sentimientos se filtro los datos para obtener solo twitters que esten relacionados al mundial y eliminar los enlaces, tags, hashtags, emojis, etc y traducir los twitters al inglés para luego etiquetarlos en positivos, negativos o neutros, con esto pudimos implementar naiveBayes para clasificar los datos utilizando para ello un json de entrenamiento y testeo. 
 Información recopilada de los tweets de los partidos de los equipos que clasificaron al mundial 2018. Los partidos que se van a analizar son: Francia vs Argentina,Uruguay vs Portugal, Bélgica vs Inglaterra, Francia vs Croacia. 
@@ -22,7 +23,7 @@ Después se procedió a analizar los datos:
 -Porcentaje de sentimientos (pastel) 
 -Tweets por país 
 -Tweets (relacionados al mundial) por país 
-• Resultados 
+- Resultados 
 -El análisis de sentimientos tanto en los países que ganaron el partido como los que no, tienen más tweets positivos que negativos, con excepción de Portugal. 
 -La mayor cantidad de tweets se realizaban durante el partido en los respectivos países. 
 -La fecha con la mayor cantidad de tweets realizados fue el domingo 15 de julio, es decir la final del mundial de rusia 2018. 
