@@ -1,12 +1,13 @@
 # ProyectoFinalBI
 
 Análisis de Sentimientos Mundial GRUPO 1 
-• Participantes: 
+- Participantes: 
 -Álvarez Miguel 
 -Salazar Javier 
-Objetivo General Implementar e investigar el funcionamiento de un clasificador de sentimientos utilizando los algoritmos de aprendizaje vistos en clase y los datos recolectados de Twitter para identificar tendencias de opinión en los 20 países que participaron en el mundial a partir del 28 de junio del 2018. 
+- Objetivo General
+Implementar e investigar el funcionamiento de un clasificador de sentimientos utilizando los algoritmos de aprendizaje vistos en clase y los datos recolectados de Twitter para identificar tendencias de opinión en los 20 países que participaron en el mundial a partir del 28 de junio del 2018. 
 
-*Herramientas 
+- Herramientas 
 -CouchDb
 -Pycharm
 -Phyton
