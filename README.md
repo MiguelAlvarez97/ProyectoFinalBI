@@ -1,5 +1,6 @@
 # ProyectoFinalBI
 Analisis de Sentimientos Mundial GRUPO 1 
+
 • Participantes:
     -Álvarez Miguel
     -Salazar Javier
